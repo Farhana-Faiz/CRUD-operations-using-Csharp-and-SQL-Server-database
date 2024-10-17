@@ -1,7 +1,8 @@
 # CRUD-operations-using-Csharp-and-SQL-Server-database
 #visual studio
-System.Data.SqlClient
+#windows application form
 
+-code
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
